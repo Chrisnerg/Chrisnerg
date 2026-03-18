@@ -1,151 +1,127 @@
 <div align="center">
-<br/>
 
-# Chrisnerg
-
-**Full Stack Developer**
-
-*Building clean, purposeful software — one commit at a time.*
-
-<br/>
-
-[![GitHub](https://img.shields.io/badge/South%20Africa-333333?style=flat-square&logo=github&logoColor=white)](https://github.com/Chrisnerg)&nbsp;&nbsp;
-![](https://img.shields.io/badge/Available%20for%20hire-2aa44f?style=flat-square)&nbsp;&nbsp;
-![](https://img.shields.io/badge/Junior%20Developer-555555?style=flat-square)
+<!-- ANIMATED HEADER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:0a3d2e,100:00ff88&height=200&section=header&text=CHRISNERG&fontSize=70&fontColor=00ff88&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER&descSize=18&descAlignY=58&descColor=ffffff&animation=fadeIn" width="100%"/>
 
 </div>
 
-<br/><br/>
-
----
-
-<br/>
-
-## About
-
-I'm a full stack developer from South Africa who loves turning complex problems into clean, simple solutions. I work across the entire stack — from crafting pixel-perfect interfaces in React to building reliable APIs in Node.js and Express.
-
-I care deeply about code quality, user experience, and shipping things that actually work. I'm currently looking for a team where I can grow fast, take ownership, and build products that matter.
-
-<br/>
-
----
-
-<br/>
-
-## Stack
-
-<br/>
-
 <div align="center">
 
-| Frontend | Backend | Tools |
-|:--------:|:-------:|:-----:|
-| React | Node.js | Git |
-| TypeScript | Express | GitHub |
-| JavaScript | MongoDB | VS Code |
-| HTML & CSS | Firebase | Postman |
-| Tailwind CSS | REST APIs | Chrome APIs |
+<!-- TYPING ANIMATION -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Building+ideas+into+reality+%F0%9F%9A%80;React+%2B+Node.js+%2B+TypeScript+%E2%9A%A1;Always+shipping%2C+always+learning+%F0%9F%94%A5;Open+to+exciting+opportunities+%F0%9F%91%80)](https://git.io/typing-svg)
 
 </div>
 
-<br/>
+---
+
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                    [ SYSTEM PROFILE LOADED ]                     ║
+╠══════════════════════════════════════════════════════════════════╣
+║  HANDLE      ::  Chrisnerg                                       ║
+║  ROLE        ::  Junior Full Stack Developer                     ║
+║  STACK       ::  React · Node.js · Express · TypeScript · JS     ║
+║  STATUS      ::  🟢 ONLINE — Available for opportunities         ║
+║  TIMEZONE    ::  Africa/Johannesburg (UTC+2)                     ║
+╠══════════════════════════════════════════════════════════════════╣
+║  OBJECTIVE   ::  Build scalable, clean, and purposeful software  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
 
 ---
 
-<br/>
-
-## Work
-
-<br/>
-
-**[House Marketplace](https://github.com/Chrisnerg/house-marketplace)**
-&nbsp;·&nbsp; `React` `Firebase` `JavaScript`
-
-A full property platform where users can browse, list, buy and rent homes. Built with live authentication and a real-time database.
-
-<br/>
-
-**[URL Shortener](https://github.com/Chrisnerg/url-shortener-fullstack)**
-&nbsp;·&nbsp; `TypeScript` `Node.js` `Express`
-
-A full stack URL compression and redirect engine, built end to end — from frontend to backend API.
-
-<br/>
-
-**[GitHub Finder](https://github.com/Chrisnerg/github-finder)**
-&nbsp;·&nbsp; `React` `GitHub API`
-
-Search any GitHub profile and explore their repositories, contribution stats and activity at a glance.
-
-<br/>
-
-**[Techbarn Site](https://github.com/Chrisnerg/techbarn-site)**
-&nbsp;·&nbsp; `JavaScript` `CSS`
-
-A clean e-commerce storefront for tech products, focused on frontend design and smooth user experience.
-
-<br/>
-
-**[Chrome Extension](https://github.com/Chrisnerg/chrome-extension-project)**
-&nbsp;·&nbsp; `JavaScript` `Chrome API`
-
-A custom browser productivity extension built with the Chrome Extensions API.
-
-<br/>
-
-**[Web Content Scraper](https://github.com/Chrisnerg/Web-Content-Scraper)**
-&nbsp;·&nbsp; `Node.js` `JavaScript`
-
-An automated web data extraction engine that crawls, parses and delivers structured content on demand.
-
-<br/>
-
----
-
-<br/>
-
-## Stats
-
-<br/>
+## ⚡ TECH ARSENAL
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Chrisnerg&show_icons=true&hide_border=true&bg_color=ffffff&title_color=000000&icon_color=000000&text_color=555555&include_all_commits=true&count_private=true&hide_title=true"/>
-&nbsp;&nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chrisnerg&layout=compact&hide_border=true&bg_color=ffffff&title_color=000000&text_color=555555&langs_count=5&hide_title=true"/>
+**[ FRONTEND ]**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=00FF88)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d0d0d?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d0d0d?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![HTML5](https://img.shields.io/badge/HTML5-0d0d0d?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0d0d0d?style=for-the-badge&logo=css3&logoColor=1572B6)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-0d0d0d?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC)
+
+**[ BACKEND ]**
+
+![Node.js](https://img.shields.io/badge/Node.js-0d0d0d?style=for-the-badge&logo=node.js&logoColor=00FF88)
+![Express](https://img.shields.io/badge/Express-0d0d0d?style=for-the-badge&logo=express&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-0d0d0d?style=for-the-badge&logo=firebase&logoColor=FFCA28)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d0d0d?style=for-the-badge&logo=mongodb&logoColor=47A248)
+
+**[ TOOLS ]**
+
+![Git](https://img.shields.io/badge/Git-0d0d0d?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0d0d0d?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
+![Postman](https://img.shields.io/badge/Postman-0d0d0d?style=for-the-badge&logo=postman&logoColor=FF6C37)
 
 </div>
 
-<br/>
+---
+
+## 🛰️ ACTIVE PROJECTS
+
+| Project | Description | Stack |
+|--------|-------------|-------|
+| 🏠 [**house-marketplace**](https://github.com/Chrisnerg/house-marketplace) | Property listing platform — browse, buy, rent & list | `React` `Firebase` `JS` |
+| 🔗 [**url-shortener-fullstack**](https://github.com/Chrisnerg/url-shortener-fullstack) | Full stack URL shortener with analytics | `TypeScript` `Node` `Express` |
+| 🔍 [**github-finder**](https://github.com/Chrisnerg/github-finder) | Search GitHub profiles & explore stats | `React` `GitHub API` |
+| 🧩 [**chrome-extension-project**](https://github.com/Chrisnerg/chrome-extension-project) | Browser productivity extension | `JavaScript` `Chrome API` |
+| 🌐 [**Web-Content-Scraper**](https://github.com/Chrisnerg/Web-Content-Scraper) | Automated web content extraction tool | `Node.js` `JS` |
+| 🛒 [**techbarn-site**](https://github.com/Chrisnerg/techbarn-site) | E-commerce tech store frontend | `JavaScript` `CSS` |
 
 ---
 
-<br/>
-
-## Currently
-
-- Deepening my TypeScript and system design knowledge
-- Exploring testing strategies with Jest
-- Learning CI/CD and deployment workflows
-- Looking for a junior developer role where I can grow and ship real products
-
-<br/>
-
----
-
-<br/>
+## 📊 GITHUB STATS
 
 <div align="center">
 
-**Let's build something.**
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Chrisnerg&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d0d&title_color=00ff88&icon_color=00ff88&text_color=ffffff"/>
 
-[github.com/Chrisnerg](https://github.com/Chrisnerg)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chrisnerg&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff88&text_color=ffffff"/>
 
-<br/><br/>
+</div>
 
-![](https://komarev.com/ghpvc/?username=Chrisnerg&color=000000&style=flat-square&label=profile+views)
+<div align="center">
 
-<br/><br/>
+![GitHub Streak](https://streak-stats.demolab.com?user=Chrisnerg&theme=dark&hide_border=true&background=0d0d0d&stroke=00ff88&ring=00ff88&fire=00ff88&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00ff88&sideLabels=00ff88&dates=888888)
+
+</div>
+
+---
+
+## 🧠 CURRENTLY LEVELLING UP
+
+```javascript
+const currentFocus = {
+  learning:   ["System Design", "REST API best practices", "Testing"],
+  building:   ["Full Stack apps with auth & databases"],
+  goal:       "Land a role where I can grow fast and ship real products",
+  available:  true
+};
+```
+
+---
+
+## 📡 CONNECT
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-Chrisnerg-00ff88?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d)](https://github.com/Chrisnerg)
+
+> 💬 *Open to junior developer roles, collaborations, and freelance projects.*
+> Feel free to reach out — let's build something great.
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,50:0a3d2e,100:0d0d0d&height=120&section=footer" width="100%"/>
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Chrisnerg&color=00ff88&style=flat-square&label=PROFILE+VIEWS)
 
 </div>

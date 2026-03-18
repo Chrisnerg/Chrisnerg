@@ -1,140 +1,151 @@
 <div align="center">
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a0a,30:0a000f,60:000a0a,100:0a0a0a&height=240&section=header&text=CHRISNERG&fontSize=74&fontColor=ffffff&fontAlignY=45&desc=ERR_404_BUGS_NOT_FOUND+//+FULL+STACK+DEV+//+SYSTEM+ONLINE&descSize=12&descAlignY=65&descColor=ff0040&animation=twinkling&stroke=00ffff&strokeWidth=1" width="100%"/>
+# Chrisnerg
+
+**Full Stack Developer**
+
+*Building clean, purposeful software — one commit at a time.*
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/South%20Africa-333333?style=flat-square&logo=github&logoColor=white)](https://github.com/Chrisnerg)&nbsp;&nbsp;
+![](https://img.shields.io/badge/Available%20for%20hire-2aa44f?style=flat-square)&nbsp;&nbsp;
+![](https://img.shields.io/badge/Junior%20Developer-555555?style=flat-square)
 
 </div>
 
-<div align="center">
+<br/><br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=900&size=18&duration=1500&pause=300&color=FFFFFF&center=true&vCenter=true&width=800&lines=%5BSYS%5D+Boot+sequence+initiated...+%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88%E2%96%88+100%25;%5BERR%5D+Normal+developer+not+found.+Loading+Chrisnerg...;%5BOK+%5D+Junior+Full+Stack+Developer+online.+Stack+verified.;%5BOK+%5D+React+%7C+Node.js+%7C+TypeScript+%7C+Express+%7C+MongoDB+%7C+Firebase;%5BSYS%5D+ERR_404_BUGS_NOT_FOUND+--+Available+for+hire+--+PING+NOW)](https://git.io/typing-svg)
+---
 
-</div>
+<br/>
+
+## About
+
+I'm a full stack developer from South Africa who loves turning complex problems into clean, simple solutions. I work across the entire stack — from crafting pixel-perfect interfaces in React to building reliable APIs in Node.js and Express.
+
+I care deeply about code quality, user experience, and shipping things that actually work. I'm currently looking for a team where I can grow fast, take ownership, and build products that matter.
+
+<br/>
+
+---
+
+<br/>
+
+## Stack
 
 <br/>
 
 <div align="center">
 
-![](https://img.shields.io/badge/[SYS]-ONLINE-ff0040?style=flat-square&labelColor=0a0a0a)
-&nbsp;![](https://img.shields.io/badge/[OK_]-Full_Stack_Dev-00ffff?style=flat-square&labelColor=0a0a0a)
-&nbsp;![](https://img.shields.io/badge/[LOC]-South_Africa-ff0040?style=flat-square&labelColor=0a0a0a)
-&nbsp;![](https://img.shields.io/badge/[JOB]-OPEN-00ffff?style=flat-square&labelColor=0a0a0a)
+| Frontend | Backend | Tools |
+|:--------:|:-------:|:-----:|
+| React | Node.js | Git |
+| TypeScript | Express | GitHub |
+| JavaScript | MongoDB | VS Code |
+| HTML & CSS | Firebase | Postman |
+| Tailwind CSS | REST APIs | Chrome APIs |
 
 </div>
+
+<br/>
 
 ---
 
-<div align="center">
+<br/>
 
-```
-[SYS] Loading operative profile...
-████████████████████████████████████████  DONE
+## Work
 
-╔══════════════════════════════════════════════════════════════════════════════╗
-║  [ERR] Standard README not found.  [OK] Custom profile loaded.             ║
-╠══════════════════════════════════════════════════════════════════════════════╣
-║                                                                              ║
-║  [UID]  ::  Chrisnerg                                                        ║
-║  [GRP]  ::  Junior Full Stack Developer                                      ║
-║  [PKG]  ::  React · Node.js · TypeScript · Express                           ║
-║  [DEP]  ::  MongoDB · Firebase · REST APIs · Git                             ║
-║  [NET]  ::  South Africa   //   Uplink: GLOBAL                              ║
-║  [URL]  ::  github.com/Chrisnerg                                             ║
-║  [RAM]  ::  ████████████████████████  MAX CAPACITY 🔴                       ║
-║                                                                              ║
-║  [RUN]  ::  Build fast. Ship clean. Break nothing.                          ║
-║         ::  ERR_404: technical debt not found.                               ║
-║         ::  ERR_404: bugs not found.                                         ║
-║                                                                              ║
-╚══════════════════════════════════════════════════════════════════════════════╝
+<br/>
 
-[SYS] Profile render complete. No errors. (suspicious)
-```
+**[House Marketplace](https://github.com/Chrisnerg/house-marketplace)**
+&nbsp;·&nbsp; `React` `Firebase` `JavaScript`
 
-</div>
+A full property platform where users can browse, list, buy and rent homes. Built with live authentication and a real-time database.
 
----
+<br/>
 
-## `[PKG] INSTALLED MODULES`
+**[URL Shortener](https://github.com/Chrisnerg/url-shortener-fullstack)**
+&nbsp;·&nbsp; `TypeScript` `Node.js` `Express`
 
-<div align="center">
+A full stack URL compression and redirect engine, built end to end — from frontend to backend API.
 
-**[ FRONTEND PACKAGES ]**
+<br/>
 
-![React](https://img.shields.io/badge/React-0a0a0a?style=for-the-badge&logo=react&logoColor=00ffff)
-![TypeScript](https://img.shields.io/badge/TypeScript-0a0a0a?style=for-the-badge&logo=typescript&logoColor=ff0040)
-![JavaScript](https://img.shields.io/badge/JavaScript-0a0a0a?style=for-the-badge&logo=javascript&logoColor=00ffff)
-![HTML5](https://img.shields.io/badge/HTML5-0a0a0a?style=for-the-badge&logo=html5&logoColor=ff0040)
-![CSS3](https://img.shields.io/badge/CSS3-0a0a0a?style=for-the-badge&logo=css3&logoColor=00ffff)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-0a0a0a?style=for-the-badge&logo=tailwind-css&logoColor=ff0040)
+**[GitHub Finder](https://github.com/Chrisnerg/github-finder)**
+&nbsp;·&nbsp; `React` `GitHub API`
 
-**[ BACKEND PACKAGES ]**
+Search any GitHub profile and explore their repositories, contribution stats and activity at a glance.
 
-![Node.js](https://img.shields.io/badge/Node.js-0a0a0a?style=for-the-badge&logo=node.js&logoColor=00ffff)
-![Express](https://img.shields.io/badge/Express-0a0a0a?style=for-the-badge&logo=express&logoColor=ff0040)
-![MongoDB](https://img.shields.io/badge/MongoDB-0a0a0a?style=for-the-badge&logo=mongodb&logoColor=00ffff)
-![Firebase](https://img.shields.io/badge/Firebase-0a0a0a?style=for-the-badge&logo=firebase&logoColor=ff0040)
-![Git](https://img.shields.io/badge/Git-0a0a0a?style=for-the-badge&logo=git&logoColor=00ffff)
-![VS Code](https://img.shields.io/badge/VS_Code-0a0a0a?style=for-the-badge&logo=visual-studio-code&logoColor=ff0040)
+<br/>
 
-</div>
+**[Techbarn Site](https://github.com/Chrisnerg/techbarn-site)**
+&nbsp;·&nbsp; `JavaScript` `CSS`
+
+A clean e-commerce storefront for tech products, focused on frontend design and smooth user experience.
+
+<br/>
+
+**[Chrome Extension](https://github.com/Chrisnerg/chrome-extension-project)**
+&nbsp;·&nbsp; `JavaScript` `Chrome API`
+
+A custom browser productivity extension built with the Chrome Extensions API.
+
+<br/>
+
+**[Web Content Scraper](https://github.com/Chrisnerg/Web-Content-Scraper)**
+&nbsp;·&nbsp; `Node.js` `JavaScript`
+
+An automated web data extraction engine that crawls, parses and delivers structured content on demand.
+
+<br/>
 
 ---
 
-## `[LOG] SHIPPED BUILDS`
+<br/>
+
+## Stats
+
+<br/>
 
 <div align="center">
 
-| CODE | BUILD | OUTPUT | STACK |
-|:----:|:------|:-------|:------|
-| `[✓]` | [**🏠 house-marketplace**](https://github.com/Chrisnerg/house-marketplace) | Full property platform. Browse, list, buy & rent. Live auth, real-time DB. | `React` `Firebase` `JS` |
-| `[✓]` | [**🔗 url-shortener**](https://github.com/Chrisnerg/url-shortener-fullstack) | Full stack URL compressor + redirect engine. End to end. | `TypeScript` `Node` `Express` |
-| `[✓]` | [**🔍 github-finder**](https://github.com/Chrisnerg/github-finder) | Profile scanner — search any user, inspect repos & stats. | `React` `GitHub API` |
-| `[✓]` | [**🌐 techbarn-site**](https://github.com/Chrisnerg/techbarn-site) | E-commerce storefront. Full frontend deployed. | `JavaScript` `CSS` |
-| `[✓]` | [**🧩 chrome-extension**](https://github.com/Chrisnerg/chrome-extension-project) | Browser productivity module. Custom extension. | `JS` `Chrome API` |
-| `[✓]` | [**🕷️ web-scraper**](https://github.com/Chrisnerg/Web-Content-Scraper) | Autonomous data spider. Scrapes & delivers on command. | `Node.js` `JS` |
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Chrisnerg&show_icons=true&hide_border=true&bg_color=ffffff&title_color=000000&icon_color=000000&text_color=555555&include_all_commits=true&count_private=true&hide_title=true"/>
+&nbsp;&nbsp;&nbsp;
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chrisnerg&layout=compact&hide_border=true&bg_color=ffffff&title_color=000000&text_color=555555&langs_count=5&hide_title=true"/>
 
 </div>
+
+<br/>
 
 ---
 
-## `[SYS] RUNNING DIAGNOSTICS`
+<br/>
 
-<div align="center">
+## Currently
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Chrisnerg&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=00ffff&icon_color=ff0040&text_color=00ffff&include_all_commits=true&count_private=true"/>
-&nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chrisnerg&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=00ffff&text_color=ff0040&langs_count=6"/>
+- Deepening my TypeScript and system design knowledge
+- Exploring testing strategies with Jest
+- Learning CI/CD and deployment workflows
+- Looking for a junior developer role where I can grow and ship real products
 
-</div>
-
-<div align="center">
-
-![Streak](https://streak-stats.demolab.com?user=Chrisnerg&theme=dark&hide_border=true&background=0a0a0a&stroke=00ffff&ring=ff0040&fire=ff0040&currStreakNum=ffffff&sideNums=00ffff&currStreakLabel=ff0040&sideLabels=00ffff&dates=333333)
-
-</div>
+<br/>
 
 ---
 
-## `[NET] OPEN CONNECTION`
+<br/>
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/[PING]──CONNECT──[PONG]-github.com/Chrisnerg-00ffff?style=for-the-badge&logo=github&logoColor=00ffff&labelColor=0a0a0a)](https://github.com/Chrisnerg)
+**Let's build something.**
 
-```
-[SYS] Scanning for recruiters...
-[OK ] Recruiter detected. Initiating handshake.
-[MSG] Need a dev who ships clean code & never stops levelling up?
-[URL] github.com/Chrisnerg
-[SYS] ERR_404_EXCUSES_NOT_FOUND  --  ONLINE ██
-```
+[github.com/Chrisnerg](https://github.com/Chrisnerg)
 
-</div>
+<br/><br/>
 
-<div align="center">
+![](https://komarev.com/ghpvc/?username=Chrisnerg&color=000000&style=flat-square&label=profile+views)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:0a000f,100:0a0a0a&height=140&section=footer&text=[SYS]+CHRISNERG+ONLINE&fontSize=18&fontColor=00ffff&fontAlignY=55&desc=FULL+STACK+DEV+·+SOUTH+AFRICA+·+ERR_404_NOT_AVAILABLE_NOT_FOUND&descSize=11&descAlignY=78&descColor=ff0040" width="100%"/>
-
-![](https://komarev.com/ghpvc/?username=Chrisnerg&color=ff0040&style=flat-square&label=PROCESSES_SPAWNED)
+<br/><br/>
 
 </div>

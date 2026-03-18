@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d001a,30:1a0033,60:2d0050,100:0d001a&height=240&section=header&text=CHRISNERG&fontSize=74&fontColor=ff6ec7&fontAlignY=45&desc=//+FULL+STACK+DEVELOPER+//+RIDING+THE+NEON+GRID+//&descSize=13&descAlignY=65&descColor=cc44ff&animation=twinkling&stroke=ff6ec7&strokeWidth=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,40:001400,70:000a00,100:000000&height=240&section=header&text=CHRISNERG&fontSize=74&fontColor=00ff41&fontAlignY=45&desc=//+SYSTEM+ACCESS+GRANTED+//+FULL+STACK+DEVELOPER+//+ROOT+@+LOCALHOST&descSize=13&descAlignY=65&descColor=00aa30&animation=twinkling&stroke=00ff41&strokeWidth=1" width="100%"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=16&duration=2200&pause=600&color=FF6EC7&center=true&vCenter=true&width=800&lines=◈+WELCOME+TO+THE+GRID+◈+SYNTHWAVE+LOADING...;RIDER%3A+Chrisnerg+%7C+ROLE%3A+Full+Stack+Developer+%7C+VIBE%3A+MAXIMUM;WEAPONS%3A+React+%7C+Node.js+%7C+TypeScript+%7C+Express+%7C+MongoDB;DIRECTIVE%3A+Code+by+day.+Ship+by+night.+Ride+the+neon+grid.;◈+AVAILABLE+FOR+HIRE+◈+NEON+LINK+OPEN+◈+RIDE+WITH+ME)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=17&duration=1800&pause=400&color=00FF41&center=true&vCenter=true&width=800&lines=root%40chrisnerg%3A~%24+sudo+identify+--operative;%3E+Scanning...+Identity+confirmed.+Welcome%2C+Chrisnerg.;%3E+Role%3A+Junior+Full+Stack+Developer+%7C+Status%3A+ACTIVE;%3E+Stack%3A+React+%7C+Node.js+%7C+TypeScript+%7C+Express+%7C+MongoDB;root%40chrisnerg%3A~%24+_+%5BAVAILABLE+FOR+HIRE%5D+%5BPING+NOW%5D)](https://git.io/typing-svg)
 
 </div>
 
@@ -14,10 +14,10 @@
 
 <div align="center">
 
-![](https://img.shields.io/badge/◈_STATUS-RIDING_THE_GRID-ff6ec7?style=flat-square&labelColor=1a0033)
-&nbsp;![](https://img.shields.io/badge/◈_ROLE-Full_Stack_Dev-cc44ff?style=flat-square&labelColor=1a0033)
-&nbsp;![](https://img.shields.io/badge/◈_CITY-South_Africa-ff6ec7?style=flat-square&labelColor=1a0033)
-&nbsp;![](https://img.shields.io/badge/◈_HIRE_ME-OPEN-cc44ff?style=flat-square&labelColor=1a0033)
+![](https://img.shields.io/badge/$_STATUS-ONLINE-00ff41?style=flat-square&labelColor=001400)
+&nbsp;![](https://img.shields.io/badge/$_ACCESS-ROOT_GRANTED-00aa30?style=flat-square&labelColor=001400)
+&nbsp;![](https://img.shields.io/badge/$_NODE-South_Africa-00ff41?style=flat-square&labelColor=001400)
+&nbsp;![](https://img.shields.io/badge/$_HIRE-OPEN-00aa30?style=flat-square&labelColor=001400)
 
 </div>
 
@@ -26,109 +26,119 @@
 <div align="center">
 
 ```
+root@chrisnerg:~$ cat /etc/operative.conf
+```
+
+```
 ╔══════════════════════════════════════════════════════════════════════════════╗
-║  ▓▒░  R I D E R   P R O F I L E  ░▒▓   [ YEAR: 198X  //  CITY: NEON ]     ║
+║                                                                              ║
+║   ██  S Y S T E M   P R O F I L E  ██   [ ACCESS: GRANTED ]                ║
+║                                                                              ║
 ╠══════════════════════════════════════════════════════════════════════════════╣
 ║                                                                              ║
-║   RIDER         »»  Chrisnerg                                                ║
-║   LICENSE       »»  Junior Full Stack Developer                              ║
-║   CHROME        »»  React · Node.js · TypeScript · Express                   ║
-║   FUEL SYSTEM   »»  MongoDB · Firebase · REST APIs · Git                     ║
-║   HOME CITY     »»  South Africa  //  Riding: ALL GRIDS GLOBAL              ║
-║   NEON LINK     »»  github.com/Chrisnerg                                     ║
-║   SPEED GAUGE   »»  ████████████████████████  REDLINE  🔺                   ║
+║   USER          ::  Chrisnerg                                                ║
+║   PROCESS       ::  Junior Full Stack Developer                              ║
+║   MODULES       ::  React · Node.js · TypeScript · Express                   ║
+║   DEPENDENCIES  ::  MongoDB · Firebase · REST APIs · Git                     ║
+║   HOST          ::  South Africa   //   Network: GLOBAL                     ║
+║   SOCKET        ::  github.com/Chrisnerg                                     ║
+║   UPTIME        ::  ████████████████████████  99.9%  [RUNNING]              ║
 ║                                                                              ║
-║   MISSION       »»  Build chrome-tight systems. Ride the neon grid.         ║
-║                  »»  Ship fast. Leave no bugs in the rearview mirror.        ║
+║   FUNCTION      ::  Build scalable systems. Eliminate bugs. Ship clean.     ║
+║                  ::  Zero downtime. Zero technical debt. Always learning.    ║
 ║                                                                              ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 ```
 
-</div>
-
----
-
-## `» CHROME LOADOUT`
-
-<div align="center">
-
-**[ FRONTEND — PRIMARY CHROME ]**
-
-![React](https://img.shields.io/badge/React-0d001a?style=for-the-badge&logo=react&logoColor=ff6ec7)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d001a?style=for-the-badge&logo=typescript&logoColor=cc44ff)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d001a?style=for-the-badge&logo=javascript&logoColor=ffe44d)
-![HTML5](https://img.shields.io/badge/HTML5-0d001a?style=for-the-badge&logo=html5&logoColor=ff6ec7)
-![CSS3](https://img.shields.io/badge/CSS3-0d001a?style=for-the-badge&logo=css3&logoColor=cc44ff)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-0d001a?style=for-the-badge&logo=tailwind-css&logoColor=ff6ec7)
-
-**[ BACKEND — ENGINE CORE ]**
-
-![Node.js](https://img.shields.io/badge/Node.js-0d001a?style=for-the-badge&logo=node.js&logoColor=cc44ff)
-![Express](https://img.shields.io/badge/Express-0d001a?style=for-the-badge&logo=express&logoColor=ff6ec7)
-![MongoDB](https://img.shields.io/badge/MongoDB-0d001a?style=for-the-badge&logo=mongodb&logoColor=cc44ff)
-![Firebase](https://img.shields.io/badge/Firebase-0d001a?style=for-the-badge&logo=firebase&logoColor=ffe44d)
-![Git](https://img.shields.io/badge/Git-0d001a?style=for-the-badge&logo=git&logoColor=ff6ec7)
-![VS Code](https://img.shields.io/badge/VS_Code-0d001a?style=for-the-badge&logo=visual-studio-code&logoColor=cc44ff)
+```
+root@chrisnerg:~$ _
+```
 
 </div>
 
 ---
 
-## `» RIDES COMPLETED`
+## `$ ls -la skills/`
 
 <div align="center">
 
-| TRACK | RIDE NAME | MISSION | ENGINE |
-|:-----:|:----------|:--------|:-------|
-| `🏁 01` | [**🏠 HOUSE-MARKETPLACE**](https://github.com/Chrisnerg/house-marketplace) | Full property platform. Browse, list, buy & rent. Live auth + real-time DB. | `React` `Firebase` `JS` |
-| `🏁 02` | [**🔗 URL-SHORTENER**](https://github.com/Chrisnerg/url-shortener-fullstack) | Full stack URL compression + redirect engine. End to end. | `TypeScript` `Node` `Express` |
-| `🏁 03` | [**🔍 GITHUB-FINDER**](https://github.com/Chrisnerg/github-finder) | Profile scanner — search any rider, pull their stats & repos. | `React` `GitHub API` |
-| `🏁 04` | [**🌐 TECHBARN-SITE**](https://github.com/Chrisnerg/techbarn-site) | E-commerce storefront. Full neon showroom deployed. | `JavaScript` `CSS` |
-| `🏁 05` | [**🧩 CHROME-EXTENSION**](https://github.com/Chrisnerg/chrome-extension-project) | Browser module. Custom productivity extension. | `JS` `Chrome API` |
-| `🏁 06` | [**🕷️ WEB-SCRAPER**](https://github.com/Chrisnerg/Web-Content-Scraper) | Recon engine. Scrapes and delivers intel on command. | `Node.js` `JS` |
+**[ /frontend ]**
+
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=00ff41)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=00aa30)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00ff41)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00aa30)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=00ff41)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwind-css&logoColor=00aa30)
+
+**[ /backend ]**
+
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=00ff41)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=00aa30)
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=00ff41)
+![Firebase](https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=00aa30)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00ff41)
+![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=00aa30)
 
 </div>
 
 ---
 
-## `» GRID STATS`
+## `$ cat exploit_log.txt`
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Chrisnerg&show_icons=true&hide_border=true&bg_color=0d001a&title_color=ff6ec7&icon_color=cc44ff&text_color=ff6ec7&include_all_commits=true&count_private=true"/>
+| PID | PROCESS NAME | DESCRIPTION | MODULES |
+|:---:|:-------------|:------------|:--------|
+| `0x01` | [**🏠 house-marketplace**](https://github.com/Chrisnerg/house-marketplace) | Full property platform. Browse, list, buy & rent. Live auth + real-time DB. | `React` `Firebase` `JS` |
+| `0x02` | [**🔗 url-shortener**](https://github.com/Chrisnerg/url-shortener-fullstack) | Full stack URL compression + redirect engine. Zero latency. | `TypeScript` `Node` `Express` |
+| `0x03` | [**🔍 github-finder**](https://github.com/Chrisnerg/github-finder) | OSINT tool — profile any operative. Inspect repos & stats. | `React` `GitHub API` |
+| `0x04` | [**🌐 techbarn-site**](https://github.com/Chrisnerg/techbarn-site) | E-commerce node. Full storefront compiled & deployed. | `JavaScript` `CSS` |
+| `0x05` | [**🧩 chrome-extension**](https://github.com/Chrisnerg/chrome-extension-project) | Browser injection module. Custom productivity exploit. | `JS` `Chrome API` |
+| `0x06` | [**🕷️ web-scraper**](https://github.com/Chrisnerg/Web-Content-Scraper) | Spider process. Crawls, parses & extracts web data. | `Node.js` `JS` |
+
+</div>
+
+---
+
+## `$ ./run_diagnostics.sh`
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Chrisnerg&show_icons=true&hide_border=true&bg_color=000000&title_color=00ff41&icon_color=00aa30&text_color=00ff41&include_all_commits=true&count_private=true"/>
 &nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chrisnerg&layout=compact&hide_border=true&bg_color=0d001a&title_color=ff6ec7&text_color=cc44ff&langs_count=6"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chrisnerg&layout=compact&hide_border=true&bg_color=000000&title_color=00ff41&text_color=00aa30&langs_count=6"/>
 
 </div>
 
 <div align="center">
 
-![Streak](https://streak-stats.demolab.com?user=Chrisnerg&theme=dark&hide_border=true&background=0d001a&stroke=ff6ec7&ring=ff6ec7&fire=cc44ff&currStreakNum=ffffff&sideNums=cc44ff&currStreakLabel=ff6ec7&sideLabels=cc44ff&dates=4a1a6a)
+![Streak](https://streak-stats.demolab.com?user=Chrisnerg&theme=dark&hide_border=true&background=000000&stroke=00ff41&ring=00ff41&fire=00ff41&currStreakNum=ffffff&sideNums=00aa30&currStreakLabel=00ff41&sideLabels=00aa30&dates=1a3a1a)
 
 </div>
 
 ---
 
-## `» OPEN NEON LINK`
+## `$ ping chrisnerg --connect`
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/◈──RIDE_WITH_ME──◈-github.com/Chrisnerg-ff6ec7?style=for-the-badge&logo=github&logoColor=ff6ec7&labelColor=0d001a)](https://github.com/Chrisnerg)
+[![GitHub](https://img.shields.io/badge/$──OPEN_SOCKET──$-github.com/Chrisnerg-00ff41?style=for-the-badge&logo=github&logoColor=00ff41&labelColor=000000)](https://github.com/Chrisnerg)
 
 ```
-╔══════════════════════════════════════════════════════╗
-║  Neon link open. Need a dev who ships clean code    ║
-║  and never stops levelling up?                      ║
-║  Hop in.  >>  github.com/Chrisnerg  [ ONLINE 🔺 ]  ║
-╚══════════════════════════════════════════════════════╝
+root@recruiter:~$ ssh chrisnerg@github.com
+> Connection established.
+> Need a dev who ships clean code & never stops learning?
+> Socket open.  >>  github.com/Chrisnerg    [ONLINE ██]
+root@recruiter:~$ _
 ```
 
 </div>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d001a,50:2d0050,100:0d001a&height=140&section=footer&text=»+CHRISNERG+»+RIDING+THE+GRID&fontSize=18&fontColor=ff6ec7&fontAlignY=55&desc=FULL+STACK+DEV+·+SOUTH+AFRICA+·+AVAILABLE+NOW&descSize=11&descAlignY=78&descColor=cc44ff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:001400,100:000000&height=140&section=footer&text=$+CHRISNERG+$+PROCESS+RUNNING&fontSize=18&fontColor=00ff41&fontAlignY=55&desc=FULL+STACK+DEV+·+SOUTH+AFRICA+·+SOCKET+OPEN&descSize=11&descAlignY=78&descColor=00aa30" width="100%"/>
 
-![](https://komarev.com/ghpvc/?username=Chrisnerg&color=ff6ec7&style=flat-square&label=RIDERS+SCANNED)
+![](https://komarev.com/ghpvc/?username=Chrisnerg&color=00ff41&style=flat-square&label=PROCESSES+SPAWNED)
 
 </div>

@@ -1,156 +1,177 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:000000,40:0a0a1a,100:001a33&height=180&section=header&text=CHRISNERG&fontSize=65&fontColor=00d4ff&fontAlignY=55&desc=◈%20FULL%20STACK%20DEVELOPER%20◈&descSize=16&descAlignY=78&descColor=7dd3fc&animation=blinking&stroke=00d4ff&strokeWidth=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,30:0a1a0a,70:0d2b0d,100:0d0d0d&height=220&section=header&text=%E2%96%A0%20CHRISNERG%20%E2%96%A0&fontSize=62&fontColor=39ff14&fontAlignY=42&desc=%5B%20FULL%20STACK%20DEVELOPER%20%7C%20JUNIOR%20OPERATIVE%20%5D&descSize=14&descAlignY=62&descColor=7fff00&animation=twinkling&stroke=39ff14&strokeWidth=1" width="100%"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&multiline=false&width=700&lines=→+React+%2B+Node.js+%2B+TypeScript+%2B+Express;→+Building+full+stack+apps+that+ship+%26+scale;→+Turning+complex+problems+into+clean+code;→+Open+to+opportunities+%7C+Let%27s+build+something)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=18&duration=2500&pause=600&color=39FF14&center=true&vCenter=true&width=750&lines=%5BINCOMING+TRANSMISSION%5D+Authenticated+✓;ROLE%3A+Junior+Full+Stack+Developer+%7C+STATUS%3A+ACTIVE;STACK%3A+React+%7C+Node.js+%7C+TypeScript+%7C+Express;OBJECTIVE%3A+Write+clean+code.+Ship+fast.+Break+nothing.;CLEARANCE%3A+Available+for+deployment+immediately)](https://git.io/typing-svg)
 
 </div>
 
 <br/>
 
+---
+
+```
+ ██████╗ ██████╗ ███████╗██████╗  █████╗ ████████╗██╗ ██████╗ ███╗   ██╗███████╗
+██╔═══██╗██╔══██╗██╔════╝██╔══██╗██╔══██╗╚══██╔══╝██║██╔═══██╗████╗  ██║██╔════╝
+██║   ██║██████╔╝█████╗  ██████╔╝███████║   ██║   ██║██║   ██║██╔██╗ ██║███████╗
+██║   ██║██╔═══╝ ██╔══╝  ██╔══██╗██╔══██║   ██║   ██║██║   ██║██║╚██╗██║╚════██║
+╚██████╔╝██║     ███████╗██║  ██║██║  ██║   ██║   ██║╚██████╔╝██║ ╚████║███████║
+ ╚═════╝ ╚═╝     ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝  ╚═╝   ╚═╝ ╚═════╝ ╚═╝  ╚═══╝╚══════╝
+```
+
+---
+
 <div align="center">
 
-![](https://img.shields.io/badge/STATUS-Available%20for%20hire-00d4ff?style=flat-square&labelColor=0a0a1a&color=00d4ff)
-&nbsp;
-![](https://img.shields.io/badge/FOCUS-Full%20Stack%20Dev-7dd3fc?style=flat-square&labelColor=0a0a1a)
-&nbsp;
-![](https://img.shields.io/badge/LOCATION-South%20Africa-38bdf8?style=flat-square&labelColor=0a0a1a)
-&nbsp;
-![](https://img.shields.io/badge/MODE-Building%20%26%20Learning-0ea5e9?style=flat-square&labelColor=0a0a1a)
+```
+╔═══════════════════════════════════════════════════════════════════════════════╗
+║  ▓▓▓  FIELD DOSSIER — CLASSIFICATION: OPEN SOURCE  ▓▓▓                      ║
+╠═══════════════════════════════════════════════════════════════════════════════╣
+║                                                                               ║
+║   HANDLE    ▸  Chrisnerg                                                      ║
+║   ROLE      ▸  Junior Full Stack Developer                                    ║
+║   UNIT      ▸  React · Node.js · TypeScript · Express · JavaScript            ║
+║   BASE      ▸  South Africa  ⬡  Operating Globally                            ║
+║   STATUS    ▸  🟢 ACTIVE — Available for immediate deployment                 ║
+║                                                                               ║
+║   DIRECTIVE ▸  Build scalable systems. Ship clean code. Eliminate bugs.       ║
+║                                                                               ║
+╚═══════════════════════════════════════════════════════════════════════════════╝
+```
 
 </div>
 
 ---
 
-<table>
-<tr>
-<td width="50%" valign="top">
+## ⬡ COMBAT LOADOUT
 
-## `$ whoami`
+<div align="center">
 
-```typescript
-const developer = {
-  name:       "Chrisnerg",
-  role:       "Junior Full Stack Developer",
-  stack:      ["React", "Node.js", "Express",
-               "TypeScript", "JavaScript"],
-  database:   ["MongoDB", "Firebase"],
-  tools:      ["Git", "REST APIs", "Chrome Extensions"],
-  learning:   ["System Design", "Testing", "DevOps"],
-  goal:       "Ship products that matter",
-  available:  true,
+```
+┌─────────────────────────────────────────────────────────────────────────────┐
+│  PRIMARY WEAPONS ─ FRONTEND                                                  │
+├─────────────────────────────────────────────────────────────────────────────┤
+│  React / Next.js    ████████████████████░░░░  82%   [BATTLE-TESTED]         │
+│  JavaScript         ████████████████████████░  95%   [EXPERT]               │
+│  TypeScript         ████████████░░░░░░░░░░░░  50%   [FIELD READY]           │
+│  HTML / CSS         ████████████████████████░  95%   [EXPERT]               │
+│  Tailwind CSS       ██████████████░░░░░░░░░░  58%   [FIELD READY]           │
+├─────────────────────────────────────────────────────────────────────────────┤
+│  SUPPORT SYSTEMS ─ BACKEND                                                   │
+├─────────────────────────────────────────────────────────────────────────────┤
+│  Node.js / Express  ████████████████░░░░░░░░  66%   [OPERATIONAL]           │
+│  REST APIs          ████████████████░░░░░░░░  66%   [OPERATIONAL]           │
+│  Firebase           ██████████████░░░░░░░░░░  58%   [FIELD READY]           │
+│  MongoDB            ████████████░░░░░░░░░░░░  50%   [FIELD READY]           │
+├─────────────────────────────────────────────────────────────────────────────┤
+│  TACTICAL TOOLS                                                              │
+├─────────────────────────────────────────────────────────────────────────────┤
+│  Git / GitHub       ████████████████████░░░░  80%   [BATTLE-TESTED]         │
+│  Chrome Extensions  ████████████░░░░░░░░░░░░  50%   [FIELD READY]           │
+│  Postman            ████████████████░░░░░░░░  66%   [OPERATIONAL]           │
+└─────────────────────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+## ⬡ TECH BADGES
+
+<div align="center">
+
+![React](https://img.shields.io/badge/⚛_React-101a10?style=for-the-badge&logo=react&logoColor=39ff14)
+![Node.js](https://img.shields.io/badge/⬡_Node.js-101a10?style=for-the-badge&logo=node.js&logoColor=39ff14)
+![TypeScript](https://img.shields.io/badge/TS_TypeScript-101a10?style=for-the-badge&logo=typescript&logoColor=7fff00)
+![JavaScript](https://img.shields.io/badge/JS_JavaScript-101a10?style=for-the-badge&logo=javascript&logoColor=f0e040)
+![Express](https://img.shields.io/badge/▸_Express-101a10?style=for-the-badge&logo=express&logoColor=ccffcc)
+![MongoDB](https://img.shields.io/badge/◈_MongoDB-101a10?style=for-the-badge&logo=mongodb&logoColor=39ff14)
+![Firebase](https://img.shields.io/badge/🔥_Firebase-101a10?style=for-the-badge&logo=firebase&logoColor=f0b040)
+![TailwindCSS](https://img.shields.io/badge/◎_Tailwind-101a10?style=for-the-badge&logo=tailwind-css&logoColor=60d0ff)
+![Git](https://img.shields.io/badge/⎇_Git-101a10?style=for-the-badge&logo=git&logoColor=ff6030)
+![HTML5](https://img.shields.io/badge/◼_HTML5-101a10?style=for-the-badge&logo=html5&logoColor=ff6030)
+![CSS3](https://img.shields.io/badge/◼_CSS3-101a10?style=for-the-badge&logo=css3&logoColor=60d0ff)
+![VS Code](https://img.shields.io/badge/▣_VS_Code-101a10?style=for-the-badge&logo=visual-studio-code&logoColor=60d0ff)
+
+</div>
+
+---
+
+## ⬡ MISSION LOG — COMPLETED OPS
+
+<div align="center">
+
+| OP CODE | MISSION | INTEL | ASSETS DEPLOYED |
+|:-------:|:--------|:------|:----------------|
+| `OP-01` | [**🏠 HOUSE-MARKETPLACE**](https://github.com/Chrisnerg/house-marketplace) | Full property platform — list, browse, buy & rent homes with live auth | `React` `Firebase` `JS` |
+| `OP-02` | [**🔗 URL-SHORTENER**](https://github.com/Chrisnerg/url-shortener-fullstack) | Full stack URL compression + redirect engine | `TypeScript` `Node` `Express` |
+| `OP-03` | [**🔍 GITHUB-FINDER**](https://github.com/Chrisnerg/github-finder) | Recon tool — search & profile any GitHub operative | `React` `GitHub API` |
+| `OP-04` | [**🌐 TECHBARN-SITE**](https://github.com/Chrisnerg/techbarn-site) | E-commerce forward base for tech products | `JavaScript` `CSS` |
+| `OP-05` | [**🧩 CHROME-EXTENSION**](https://github.com/Chrisnerg/chrome-extension-project) | Browser infiltration & productivity module | `JS` `Chrome API` |
+| `OP-06` | [**🕷️ WEB-SCRAPER**](https://github.com/Chrisnerg/Web-Content-Scraper) | Autonomous web intelligence extraction system | `Node.js` `JS` |
+
+</div>
+
+---
+
+## ⬡ FIELD STATISTICS
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Chrisnerg&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=39ff14&icon_color=39ff14&text_color=7fff00&ring_color=39ff14&include_all_commits=true&count_private=true&border_color=39ff14"/>
+&nbsp;
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chrisnerg&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=39ff14&text_color=7fff00&langs_count=6"/>
+
+</div>
+
+<div align="center">
+
+![Streak](https://streak-stats.demolab.com?user=Chrisnerg&theme=dark&hide_border=true&background=0d0d0d&stroke=39ff14&ring=39ff14&fire=ff6000&currStreakNum=ffffff&sideNums=7fff00&currStreakLabel=39ff14&sideLabels=7fff00&dates=3a5a3a)
+
+</div>
+
+---
+
+## ⬡ CURRENT INTEL — IN THE FIELD
+
+<div align="center">
+
+```javascript
+// ACTIVE DIRECTIVE — Q2 2025
+
+const currentMission = {
+  status        : "🟢 ACTIVE",
+  levelling_up  : ["System Design", "Testing Strategies", "CI/CD pipelines"],
+  building      : "Full stack apps with authentication, databases & clean architecture",
+  reading       : ["Clean Code — Robert C. Martin", "The Pragmatic Programmer"],
+  seeking       : "A team where I can grow fast, own features & ship real products",
+  open_to       : ["Junior Dev Roles", "Internships", "Freelance Contracts"],
 };
+
+// >> All objectives aligned. Awaiting deployment orders.
 ```
 
-</td>
-<td width="50%" valign="top">
-
-## `$ ls skills/`
-
-```
-frontend/
- ├── react          ████████████░░  90%
- ├── typescript     ████████░░░░░░  60%
- ├── html-css       ████████████░░  90%
- └── tailwind       ███████░░░░░░░  55%
-
-backend/
- ├── node-express   █████████░░░░░  70%
- ├── rest-apis      █████████░░░░░  70%
- └── firebase       ████████░░░░░░  60%
-
-tools/
- ├── git-github     █████████░░░░░  70%
- └── chrome-apis    ███████░░░░░░░  55%
-```
-
-</td>
-</tr>
-</table>
-
----
-
-## `$ cat projects.json`
-
-<div align="center">
-
-| &nbsp; | Project | What it does | Stack |
-|:---:|:--------|:-------------|:------|
-| 🏠 | [**house-marketplace**](https://github.com/Chrisnerg/house-marketplace) | Full property platform — browse, list, buy or rent homes with user auth | `React` `Firebase` `JS` |
-| 🔗 | [**url-shortener-fullstack**](https://github.com/Chrisnerg/url-shortener-fullstack) | End-to-end URL shortener with redirect tracking | `TypeScript` `Node` `Express` |
-| 🔍 | [**github-finder**](https://github.com/Chrisnerg/github-finder) | Search any GitHub profile and visualise their repos & stats | `React` `GitHub API` |
-| 🛒 | [**techbarn-site**](https://github.com/Chrisnerg/techbarn-site) | E-commerce storefront for tech products | `JavaScript` `CSS` |
-| 🧩 | [**chrome-extension**](https://github.com/Chrisnerg/chrome-extension-project) | Custom browser productivity extension | `JS` `Chrome API` |
-| 🕷️ | [**web-content-scraper**](https://github.com/Chrisnerg/Web-Content-Scraper) | Automated web data extraction engine | `Node.js` `JS` |
-
 </div>
 
 ---
 
-## `$ cat tech-stack.sh`
+## ⬡ ESTABLISH CONTACT
 
 <div align="center">
 
-**— Frontend —**
-
-![React](https://img.shields.io/badge/React-0a0a1a?style=for-the-badge&logo=react&logoColor=00d4ff)
-![TypeScript](https://img.shields.io/badge/TypeScript-0a0a1a?style=for-the-badge&logo=typescript&logoColor=3b82f6)
-![JavaScript](https://img.shields.io/badge/JavaScript-0a0a1a?style=for-the-badge&logo=javascript&logoColor=f59e0b)
-![HTML5](https://img.shields.io/badge/HTML5-0a0a1a?style=for-the-badge&logo=html5&logoColor=ef4444)
-![CSS3](https://img.shields.io/badge/CSS3-0a0a1a?style=for-the-badge&logo=css3&logoColor=3b82f6)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-0a0a1a?style=for-the-badge&logo=tailwind-css&logoColor=06b6d4)
-
-**— Backend & Database —**
-
-![Node.js](https://img.shields.io/badge/Node.js-0a0a1a?style=for-the-badge&logo=node.js&logoColor=22c55e)
-![Express](https://img.shields.io/badge/Express-0a0a1a?style=for-the-badge&logo=express&logoColor=ffffff)
-![MongoDB](https://img.shields.io/badge/MongoDB-0a0a1a?style=for-the-badge&logo=mongodb&logoColor=22c55e)
-![Firebase](https://img.shields.io/badge/Firebase-0a0a1a?style=for-the-badge&logo=firebase&logoColor=f59e0b)
-
-**— Tools & Workflow —**
-
-![Git](https://img.shields.io/badge/Git-0a0a1a?style=for-the-badge&logo=git&logoColor=f97316)
-![GitHub](https://img.shields.io/badge/GitHub-0a0a1a?style=for-the-badge&logo=github&logoColor=ffffff)
-![VS Code](https://img.shields.io/badge/VS_Code-0a0a1a?style=for-the-badge&logo=visual-studio-code&logoColor=00d4ff)
-![Postman](https://img.shields.io/badge/Postman-0a0a1a?style=for-the-badge&logo=postman&logoColor=f97316)
-
-</div>
-
----
-
-## `$ git log --stats`
-
-<div align="center">
-
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=Chrisnerg&show_icons=true&hide_border=true&bg_color=0a0a1a&title_color=00d4ff&icon_color=00d4ff&text_color=7dd3fc&ring_color=00d4ff&include_all_commits=true&count_private=true"/>
-&nbsp;&nbsp;
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chrisnerg&layout=compact&hide_border=true&bg_color=0a0a1a&title_color=00d4ff&text_color=7dd3fc&langs_count=6"/>
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Chrisnerg&theme=dark&hide_border=true&background=0a0a1a&stroke=00d4ff&ring=00d4ff&fire=f59e0b&currStreakNum=ffffff&sideNums=7dd3fc&currStreakLabel=00d4ff&sideLabels=7dd3fc&dates=475569)
-
-</div>
-
----
-
-## `$ ping chrisnerg --connect`
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-@Chrisnerg-0a0a1a?style=for-the-badge&logo=github&logoColor=00d4ff&labelColor=0a0a1a&color=00d4ff)](https://github.com/Chrisnerg)
+[![GitHub](https://img.shields.io/badge/◈_GITHUB-CHRISNERG-101a10?style=for-the-badge&logo=github&logoColor=39ff14&labelColor=0d0d0d)](https://github.com/Chrisnerg)
 
 <br/>
 
-> *"Any sufficiently motivated junior dev, given time and good problems, becomes dangerous."*
->
-> — Currently: dangerous in progress 🚀
+```
+> Transmission open.
+> If you need a developer who ships clean code and never stops learning —
+> I'm ready for orders.
+```
 
 </div>
 
@@ -158,8 +179,8 @@ tools/
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:001a33,60:0a0a1a,100:000000&height=100&section=footer&reversal=true&stroke=00d4ff&strokeWidth=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,30:0d2b0d,70:0a1a0a,100:0d0d0d&height=140&section=footer&text=STANDING+BY&fontSize=22&fontColor=39ff14&fontAlignY=65&desc=github.com%2FChrisnerg&descSize=12&descAlignY=82&descColor=7fff00" width="100%"/>
 
-![](https://komarev.com/ghpvc/?username=Chrisnerg&color=00d4ff&style=flat-square&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=Chrisnerg&color=39ff14&style=flat-square&label=OPERATIVES+VIEWED)
 
 </div>

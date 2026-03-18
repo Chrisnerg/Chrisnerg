@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,40:001400,70:000a00,100:000000&height=240&section=header&text=CHRISNERG&fontSize=74&fontColor=00ff41&fontAlignY=45&desc=//+SYSTEM+ACCESS+GRANTED+//+FULL+STACK+DEVELOPER+//+ROOT+@+LOCALHOST&descSize=13&descAlignY=65&descColor=00aa30&animation=twinkling&stroke=00ff41&strokeWidth=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:111111,100:0a0a0a&height=220&section=header&text=CHRISNERG&fontSize=72&fontColor=ffffff&fontAlignY=45&desc=FULL+STACK+DEVELOPER&descSize=14&descAlignY=65&descColor=888888&animation=fadeIn" width="100%"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=17&duration=1800&pause=400&color=00FF41&center=true&vCenter=true&width=800&lines=root%40chrisnerg%3A~%24+sudo+identify+--operative;%3E+Scanning...+Identity+confirmed.+Welcome%2C+Chrisnerg.;%3E+Role%3A+Junior+Full+Stack+Developer+%7C+Status%3A+ACTIVE;%3E+Stack%3A+React+%7C+Node.js+%7C+TypeScript+%7C+Express+%7C+MongoDB;root%40chrisnerg%3A~%24+_+%5BAVAILABLE+FOR+HIRE%5D+%5BPING+NOW%5D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&weight=300&size=22&duration=3500&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Building+products+that+matter.;Clean+code.+Purposeful+architecture.;React+·+Node.js+·+TypeScript+·+Express.;Available+for+the+right+opportunity.)](https://git.io/typing-svg)
 
 </div>
 
@@ -14,131 +14,130 @@
 
 <div align="center">
 
-![](https://img.shields.io/badge/$_STATUS-ONLINE-00ff41?style=flat-square&labelColor=001400)
-&nbsp;![](https://img.shields.io/badge/$_ACCESS-ROOT_GRANTED-00aa30?style=flat-square&labelColor=001400)
-&nbsp;![](https://img.shields.io/badge/$_NODE-South_Africa-00ff41?style=flat-square&labelColor=001400)
-&nbsp;![](https://img.shields.io/badge/$_HIRE-OPEN-00aa30?style=flat-square&labelColor=001400)
+![](https://img.shields.io/badge/STATUS-Available-ffffff?style=flat-square&labelColor=111111&color=ffffff)
+&nbsp;&nbsp;
+![](https://img.shields.io/badge/ROLE-Junior_Full_Stack_Dev-888888?style=flat-square&labelColor=111111)
+&nbsp;&nbsp;
+![](https://img.shields.io/badge/BASE-South_Africa-888888?style=flat-square&labelColor=111111)
 
 </div>
 
 ---
 
+<br/>
+
 <div align="center">
 
 ```
-root@chrisnerg:~$ cat /etc/operative.conf
-```
+  ─────────────────────────────────────────────────────────────
 
-```
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                                                                              ║
-║   ██  S Y S T E M   P R O F I L E  ██   [ ACCESS: GRANTED ]                ║
-║                                                                              ║
-╠══════════════════════════════════════════════════════════════════════════════╣
-║                                                                              ║
-║   USER          ::  Chrisnerg                                                ║
-║   PROCESS       ::  Junior Full Stack Developer                              ║
-║   MODULES       ::  React · Node.js · TypeScript · Express                   ║
-║   DEPENDENCIES  ::  MongoDB · Firebase · REST APIs · Git                     ║
-║   HOST          ::  South Africa   //   Network: GLOBAL                     ║
-║   SOCKET        ::  github.com/Chrisnerg                                     ║
-║   UPTIME        ::  ████████████████████████  99.9%  [RUNNING]              ║
-║                                                                              ║
-║   FUNCTION      ::  Build scalable systems. Eliminate bugs. Ship clean.     ║
-║                  ::  Zero downtime. Zero technical debt. Always learning.    ║
-║                                                                              ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-```
+                         C H R I S N E R G
 
-```
-root@chrisnerg:~$ _
+              Junior Full Stack Developer  ·  South Africa
+         React  ·  Node.js  ·  TypeScript  ·  Express  ·  MongoDB
+
+    Building scalable, clean systems. Shipping products that matter.
+
+  ─────────────────────────────────────────────────────────────
 ```
 
 </div>
 
+<br/>
+
 ---
 
-## `$ ls -la skills/`
+<br/>
+
+## EXPERTISE
 
 <div align="center">
 
-**[ /frontend ]**
-
-![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=00ff41)
-![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=00aa30)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00ff41)
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00aa30)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=00ff41)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwind-css&logoColor=00aa30)
-
-**[ /backend ]**
-
-![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=00ff41)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=00aa30)
-![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=00ff41)
-![Firebase](https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=00aa30)
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00ff41)
-![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=00aa30)
+![React](https://img.shields.io/badge/React-0a0a0a?style=for-the-badge&logo=react&logoColor=ffffff)
+![Node.js](https://img.shields.io/badge/Node.js-0a0a0a?style=for-the-badge&logo=node.js&logoColor=ffffff)
+![TypeScript](https://img.shields.io/badge/TypeScript-0a0a0a?style=for-the-badge&logo=typescript&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/JavaScript-0a0a0a?style=for-the-badge&logo=javascript&logoColor=ffffff)
+![Express](https://img.shields.io/badge/Express-0a0a0a?style=for-the-badge&logo=express&logoColor=ffffff)
+![MongoDB](https://img.shields.io/badge/MongoDB-0a0a0a?style=for-the-badge&logo=mongodb&logoColor=ffffff)
+![Firebase](https://img.shields.io/badge/Firebase-0a0a0a?style=for-the-badge&logo=firebase&logoColor=ffffff)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-0a0a0a?style=for-the-badge&logo=tailwind-css&logoColor=ffffff)
+![HTML5](https://img.shields.io/badge/HTML5-0a0a0a?style=for-the-badge&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/CSS3-0a0a0a?style=for-the-badge&logo=css3&logoColor=ffffff)
+![Git](https://img.shields.io/badge/Git-0a0a0a?style=for-the-badge&logo=git&logoColor=ffffff)
+![VS Code](https://img.shields.io/badge/VS_Code-0a0a0a?style=for-the-badge&logo=visual-studio-code&logoColor=ffffff)
 
 </div>
 
+<br/>
+
 ---
 
-## `$ cat exploit_log.txt`
+<br/>
+
+## SELECTED WORK
 
 <div align="center">
 
-| PID | PROCESS NAME | DESCRIPTION | MODULES |
-|:---:|:-------------|:------------|:--------|
-| `0x01` | [**🏠 house-marketplace**](https://github.com/Chrisnerg/house-marketplace) | Full property platform. Browse, list, buy & rent. Live auth + real-time DB. | `React` `Firebase` `JS` |
-| `0x02` | [**🔗 url-shortener**](https://github.com/Chrisnerg/url-shortener-fullstack) | Full stack URL compression + redirect engine. Zero latency. | `TypeScript` `Node` `Express` |
-| `0x03` | [**🔍 github-finder**](https://github.com/Chrisnerg/github-finder) | OSINT tool — profile any operative. Inspect repos & stats. | `React` `GitHub API` |
-| `0x04` | [**🌐 techbarn-site**](https://github.com/Chrisnerg/techbarn-site) | E-commerce node. Full storefront compiled & deployed. | `JavaScript` `CSS` |
-| `0x05` | [**🧩 chrome-extension**](https://github.com/Chrisnerg/chrome-extension-project) | Browser injection module. Custom productivity exploit. | `JS` `Chrome API` |
-| `0x06` | [**🕷️ web-scraper**](https://github.com/Chrisnerg/Web-Content-Scraper) | Spider process. Crawls, parses & extracts web data. | `Node.js` `JS` |
+|  | Project | Description | Stack |
+|:—:|:--------|:------------|:------|
+| `01` | [**House Marketplace**](https://github.com/Chrisnerg/house-marketplace) | Property platform. Browse, list, buy & rent homes. Live auth, real-time database. | `React` `Firebase` `JS` |
+| `02` | [**URL Shortener**](https://github.com/Chrisnerg/url-shortener-fullstack) | Full stack URL compression and redirect engine. End to end. | `TypeScript` `Node` `Express` |
+| `03` | [**GitHub Finder**](https://github.com/Chrisnerg/github-finder) | Search any GitHub profile. Explore repos and contribution stats. | `React` `GitHub API` |
+| `04` | [**Techbarn Site**](https://github.com/Chrisnerg/techbarn-site) | E-commerce storefront for tech products. | `JavaScript` `CSS` |
+| `05` | [**Chrome Extension**](https://github.com/Chrisnerg/chrome-extension-project) | Custom browser productivity extension. | `JS` `Chrome API` |
+| `06` | [**Web Scraper**](https://github.com/Chrisnerg/Web-Content-Scraper) | Automated web content extraction engine. | `Node.js` `JS` |
 
 </div>
 
+<br/>
+
 ---
 
-## `$ ./run_diagnostics.sh`
+<br/>
+
+## METRICS
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Chrisnerg&show_icons=true&hide_border=true&bg_color=000000&title_color=00ff41&icon_color=00aa30&text_color=00ff41&include_all_commits=true&count_private=true"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=Chrisnerg&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=ffffff&icon_color=888888&text_color=888888&include_all_commits=true&count_private=true"/>
 &nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chrisnerg&layout=compact&hide_border=true&bg_color=000000&title_color=00ff41&text_color=00aa30&langs_count=6"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chrisnerg&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=ffffff&text_color=888888&langs_count=6"/>
 
 </div>
 
 <div align="center">
 
-![Streak](https://streak-stats.demolab.com?user=Chrisnerg&theme=dark&hide_border=true&background=000000&stroke=00ff41&ring=00ff41&fire=00ff41&currStreakNum=ffffff&sideNums=00aa30&currStreakLabel=00ff41&sideLabels=00aa30&dates=1a3a1a)
+![Streak](https://streak-stats.demolab.com?user=Chrisnerg&theme=dark&hide_border=true&background=0a0a0a&stroke=333333&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=888888&currStreakLabel=ffffff&sideLabels=888888&dates=444444)
 
 </div>
+
+<br/>
 
 ---
 
-## `$ ping chrisnerg --connect`
+<br/>
+
+## CONTACT
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/$──OPEN_SOCKET──$-github.com/Chrisnerg-00ff41?style=for-the-badge&logo=github&logoColor=00ff41&labelColor=000000)](https://github.com/Chrisnerg)
+[![GitHub](https://img.shields.io/badge/github.com%2FChrisnerg-0a0a0a?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/Chrisnerg)
+
+<br/>
 
 ```
-root@recruiter:~$ ssh chrisnerg@github.com
-> Connection established.
-> Need a dev who ships clean code & never stops learning?
-> Socket open.  >>  github.com/Chrisnerg    [ONLINE ██]
-root@recruiter:~$ _
+  If you need a developer who ships clean code
+  and never stops learning — let's talk.
 ```
 
 </div>
 
+<br/>
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:001400,100:000000&height=140&section=footer&text=$+CHRISNERG+$+PROCESS+RUNNING&fontSize=18&fontColor=00ff41&fontAlignY=55&desc=FULL+STACK+DEV+·+SOUTH+AFRICA+·+SOCKET+OPEN&descSize=11&descAlignY=78&descColor=00aa30" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:111111,100:0a0a0a&height=120&section=footer&text=&fontSize=1" width="100%"/>
 
-![](https://komarev.com/ghpvc/?username=Chrisnerg&color=00ff41&style=flat-square&label=PROCESSES+SPAWNED)
+![](https://komarev.com/ghpvc/?username=Chrisnerg&color=ffffff&style=flat-square&label=VIEWS)
 
 </div>

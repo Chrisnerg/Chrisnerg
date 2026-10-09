@@ -19,7 +19,7 @@
 ║                    [ SYSTEM PROFILE LOADED ]                     ║
 ╠══════════════════════════════════════════════════════════════════╣
 ║  HANDLE      ::  Chrisnerg                                       ║
-║  ROLE        ::  Junior Full Stack Developer                     ║
+║  ROLE        ::  Junior Software Engineer                     ║
 ║  STACK       ::  React · Node.js · Express · TypeScript · JS     ║
 ║  STATUS      ::  🟢 ONLINE — Available for opportunities         ║
 ║  TIMEZONE    ::  Africa/Johannesburg (UTC+2)                     ║
